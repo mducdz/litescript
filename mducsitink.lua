@@ -2258,7 +2258,7 @@ end)
 Tabs.Main:AddSection("Miscellanea / Quest")
 
 local ClosetMons = Tabs.Main:AddToggle("ClosetMons", {
-    Title = "Auto Farm Nearest",
+    Title = "Auto Đánh Quái Gần",
     Description = "",
     Default = false
 })
